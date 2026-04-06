@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToastJava</string>
+    <string name="show_toast_button">Показать Toast</string>
+</resources>
